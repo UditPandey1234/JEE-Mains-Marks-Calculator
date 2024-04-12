@@ -317,6 +317,7 @@ function getAnskey(responsecontent) {
             "30/01/2024": mains30janshift2anskey,
             "31/01/2024": mains31janshift2anskey,
             "01/02/2024": mains1febshift2anskey
+            "04/04/2024": mains4aprilshift2anskey 
         } [date]
     } else {
         return {
